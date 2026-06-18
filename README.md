@@ -6,14 +6,6 @@ Kimentanm：
 
 ​	https://bit.ly/iptv-aptv
 
-YanG: 
-
-​	https://tv.iill.top/m3u/Gather
-
-冰茶：
-
-​	https://show.188766.xyz/
-
 itvlist（建议开启自动刷新配置和聚合配置）：
 
 ​	https://bit.ly/itvlist
