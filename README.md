@@ -3,10 +3,12 @@
 #### 上海电信 IPTV
 
 组播播放列表
-    GitHub: https://raw.githubusercontent.com/ihipop/Shanghai-IPTV/master/tel_mu.m3u8
+
+	GitHub: https://raw.githubusercontent.com/ihipop/Shanghai-IPTV/master/tel_mu.m3u8
 	CDN: https://cdn.jsdelivr.net/gh/ihipop/Shanghai-IPTV@master/tel_mu.m3u8
 
 LOGO 目录
+	
 	GitHub: https://raw.githubusercontent.com/ihipop/Shanghai-IPTV/master/tv-logo/
 	CDN: https://cdn.jsdelivr.net/gh/ihipop/Shanghai-IPTV@master/tv-logo/
 
