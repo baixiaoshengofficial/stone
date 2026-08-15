@@ -1,42 +1,33 @@
 # 网络收集
 
-#### APTV测试源更新：
+#### 上海电信 IPTV
 
-Kimentanm：
+组播播放列表
+	•	GitHub: https://raw.githubusercontent.com/ihipop/Shanghai-IPTV/master/tel_mu.m3u8
+	•	CDN: https://cdn.jsdelivr.net/gh/ihipop/Shanghai-IPTV@master/tel_mu.m3u8
 
-​	https://bit.ly/iptv-aptv
+LOGO 目录
+	•	GitHub: https://raw.githubusercontent.com/ihipop/Shanghai-IPTV/master/tv-logo/
+	•	CDN: https://cdn.jsdelivr.net/gh/ihipop/Shanghai-IPTV@master/tv-logo/
 
-itvlist（建议开启自动刷新配置和聚合配置）：
+#### 大葱 YanG-1989 -- https://yang-1989.eu.org/
 
-​	https://bit.ly/itvlist
+Gather IPTV：https://iptv.1989.click/playlist.m3u
 
-suxuang: 
+Live：https://live.yang-1989.eu.org/Live.m3u
 
-​	https://bit.ly/suxuang-v4
+MyTV：https://iptv.1989.click/myTV/playlist.m3u
 
+Sport：https://iptv.1989.click/sprt/playlist.m3u
 
+影视Json：https://yang-1989.eu.org/Gather.json
 
-#### YanG 
+Shell脚本：bash <(curl -sL https://yang-1989.eu.org/NoobIPTV.sh)
 
-YanG Gather 电视直播
+#### 饭太硬 -- https://www.饭太硬.cc/
 
-​	https://tv.iill.top/m3u/Gather
-
-YanG Gather 网络直播
-
-​	https://m.iill.top/Live.m3u
-
-YanG Gather精简版订阅地址，IPV6·源为主...
-
-​	https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u	
-
-
-
-#### Fanmingming
-
-​	https://live.fanmingming.com/tv/m3u/ipv6.m3u
-
-
+http://www.饭太硬.cc/tv
+（备用）http://fty.xxooo.cf/tv
 
 #### EPG 节目单
 
@@ -48,12 +39,9 @@ epg.112114.xyz
 
 ​	https://epg.112114.xyz/pp.xml
 
-
 ​	https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
 
-
 ​	https://epg.112114.xyz/pp.xml.gz
-
 ​
   https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz
 
@@ -63,13 +51,9 @@ epg.51zmt.top:8001
 
   https://epg.51zmt.top:8001/e.xml 
 
-
-
 #### 备注
 
 请挂好 **代理** 再添加订阅，否则可能出现 **解析错误**
-
-
 
 #### 声明
 
